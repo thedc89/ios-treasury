@@ -10,7 +10,7 @@ I believe many of you stumble upon the same problem as I do - I have tons of lin
 - [Architecture](#architecture)
 - [Testing](#testing)
 - [CI/CD](#cicd)
-- [Good Practices](#goodpractices)
+- [Good Practices](#good-practices)
 
 # UITableView/UICollectionView
 * [Making a Stateful TableView for iOS](https://medium.com/ios-os-x-development/making-a-stateful-tableview-for-ios-568000c1274d)
