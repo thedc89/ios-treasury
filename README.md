@@ -8,9 +8,10 @@ I believe many of you stumble upon the same problem as I do - I have tons of lin
 - [UITableView/UICollectionView](#UITableView/UICollectionView)
 - [Layout](#Layout)
 - [Persistence](#Persistence)
-- [Achitecture](#Achitecture)
+- [Architecture](#Achitecture)
 - [Testing](#Testing)
 - [CI/CD](#CI/CD)
+- [Apple Frameworks](#AppleFrameworks)
 - [Good Practices](#GoodPractices)
 
 
@@ -19,6 +20,7 @@ I believe many of you stumble upon the same problem as I do - I have tons of lin
 * [Handling cell actions with Swift generics](https://medium.com/chili-labs/handling-cell-actions-with-swift-generics-97604926a495)
 * [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86)
 * [Nicer reuse identifiers with protocols in Swift](https://medium.com/bleeding-edge/nicer-reuse-identifiers-with-protocols-in-swift-97d18de1b2df)
+* [Carousel Collection View Layout](https://bulldogjob.pl/articles/1013-carousel-collection-view-layout)
 # Layout
 * [Auto Layout UI Examples](https://hackernoon.com/auto-layout-ui-examples-2517c7efca25)
 * [How to create beautiful Stretchy Layouts on iOS using Auto Layout and SnapKit](https://medium.freecodecamp.org/tutorial-creating-stretchy-layouts-on-ios-using-auto-layout-3fa974fa5e28)
@@ -27,7 +29,7 @@ I believe many of you stumble upon the same problem as I do - I have tons of lin
 
 # Persistence
 * [Lightweight persistence in iOS shouldn’t be that hard](https://medium.com/anysuggestion/lightweight-persistence-in-ios-shouldnt-be-that-hard-c200677026d2)
-# Achitecture
+# Architecture
 * [Pretty much everything can be found here](https://github.com/onmyway133/fantastic-ios-architecture)
 # Testing
 * [Watch out for protocol extensions in your Swift API (unit tests trap)](https://medium.com/@londeix/watch-out-for-protocol-extensions-in-your-swift-api-unit-tests-trap-e28ad4ef3268)
