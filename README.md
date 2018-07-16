@@ -4,16 +4,13 @@ I believe many of you stumble upon the same problem as I do - I have tons of lin
 
 # Content
 
-
 - [UITableView/UICollectionView](#uitableviewuicollectionview)
 - [Layout](#layout)
 - [Persistence](#persistence)
 - [Architecture](#architecture)
 - [Testing](#testing)
-- [CI/CD](#ci/cd)
-- [Apple Frameworks](#appleframeworks)
+- [CI/CD](#cicd)
 - [Good Practices](#goodpractices)
-
 
 # UITableView/UICollectionView
 * [Making a Stateful TableView for iOS](https://medium.com/ios-os-x-development/making-a-stateful-tableview-for-ios-568000c1274d)
@@ -21,6 +18,7 @@ I believe many of you stumble upon the same problem as I do - I have tons of lin
 * [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86)
 * [Nicer reuse identifiers with protocols in Swift](https://medium.com/bleeding-edge/nicer-reuse-identifiers-with-protocols-in-swift-97d18de1b2df)
 * [Carousel Collection View Layout](https://bulldogjob.pl/articles/1013-carousel-collection-view-layout)
+* [Building reusable user interfaces in Swift](https://medium.com/glose-team/building-reusable-user-interfaces-in-swift-599cc56e4208)
 # Layout
 * [Auto Layout UI Examples](https://hackernoon.com/auto-layout-ui-examples-2517c7efca25)
 * [How to create beautiful Stretchy Layouts on iOS using Auto Layout and SnapKit](https://medium.freecodecamp.org/tutorial-creating-stretchy-layouts-on-ios-using-auto-layout-3fa974fa5e28)
@@ -29,8 +27,12 @@ I believe many of you stumble upon the same problem as I do - I have tons of lin
 
 # Persistence
 * [Lightweight persistence in iOS shouldn’t be that hard](https://medium.com/anysuggestion/lightweight-persistence-in-ios-shouldnt-be-that-hard-c200677026d2)
+
 # Architecture
-* [Pretty much everything can be found here](https://github.com/onmyway133/fantastic-ios-architecture)
+* [Pretty much everything about existing design patterns can be found here](https://github.com/onmyway133/fantastic-ios-architecture)
+* [An iOS architecture approach for UIViewController states & error management in Swift](https://blog.smartnsoft.com/an-ios-architecture-approach-for-uiviewcontroller-states-error-management-in-swift-a353b0e53d94)
+* [Root View Controller](https://medium.com/@stasost/ios-root-controller-navigation-3625eedbbff)
+
 # Testing
 * [Watch out for protocol extensions in your Swift API (unit tests trap)](https://medium.com/@londeix/watch-out-for-protocol-extensions-in-your-swift-api-unit-tests-trap-e28ad4ef3268)
 * [Mocking in Swift)](https://medium.com/@johnsundell/mocking-in-swift-56a913ee7484)
@@ -48,7 +50,8 @@ I believe many of you stumble upon the same problem as I do - I have tons of lin
 
 # Good Practices
 * [Keeping secrets out of Git in your iOS app](https://medium.com/ios-os-x-development/keeping-secrets-out-of-git-in-your-ios-app-c01a357e824b)
-* [Root View Controller](https://medium.com/@stasost/ios-root-controller-navigation-3625eedbbff)
-
+* [Best iOS Development Tips and Tricks](https://medium.com/developerinsider/best-ios-development-tips-and-tricks-6c42c1d208c1)
+* [Common iOS development mistakes](https://martinmitrevski.com/2018/02/11/common-ios-development-mistakes/)
+* [The Strategy Pattern in iOS Apps](https://blog.usejournal.com/the-strategy-pattern-in-ios-apps-346abc9e86a6)
 
 
