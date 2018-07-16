@@ -5,7 +5,7 @@ I believe many of you stumble upon the same problem as I do - I have tons of lin
 # Content
 
 
-- [UITableView/UICollectionView](#uitableview/uicollectionview)
+- [UITableView/UICollectionView](#uitableviewuicollectionview)
 - [Layout](#layout)
 - [Persistence](#persistence)
 - [Architecture](#architecture)
